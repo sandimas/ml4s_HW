@@ -1,0 +1,11 @@
+{
+ "Topology": [
+  2,
+  203,
+  100,
+  1
+ ],
+ "batch size": 400,
+ "num_steaps": 10000,
+ "eta": 0.9
+}
